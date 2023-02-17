@@ -14,3 +14,4 @@ class Rectangulo:
             print("es un cuadrado")
         else:
             print("no es un cuadrado")
+yuvuhihui
